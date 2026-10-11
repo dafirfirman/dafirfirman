@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f2a1d,100:00e676&height=240&section=header&text=Firman%20Damai%20Zebua&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%E2%80%A2%20Educator%20%E2%80%A2%20Informatics%20Researcher&descSize=16&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0d1117,100:00e676&height=230&section=header&text=FIRMAN%20DAMAI%20ZEBUA&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20Educator%20%7C%20M.Informatics%20Student&descSize=14&descAlignY=60&descColor=c9d1d9" width="100%" alt="Profile Header" />
 </p>
 
 <p align="center">
