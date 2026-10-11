@@ -26,10 +26,9 @@ class Firman:
     location  = "Medan / Deli Serdang, Sumatera Utara 🇮🇩"
     education = {"S1": "UNIKA Santo Thomas Medan", "S2": "USU (Teknik Informatika)"}
     focus     = ["Machine Learning", "Cybersecurity", "Blockchain", "Web & Mobile"]
-    goal      = "Menjadi dosen & meraih NIDN 🎓"
 
     def mission(self):
-        return "Membangun solusi software yang berdampak, dan membagikan ilmunya."
+        return "Building impactful software solutions and sharing knowledge."
 ```
 
 ---
