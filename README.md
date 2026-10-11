@@ -24,7 +24,7 @@ I am **Firman Damai Zebua**, a **software developer** and **specialized vocation
 class Firman:
     role      = ["Software Developer", "Educator", "Graduate Student"]
     location  = "Medan / Deli Serdang, Sumatera Utara 🇮🇩"
-    education = {"S1": "UNIKA Santo Thomas Medan", "S2": "USU (Teknik Informatika)"}
+    education = {"S1": "UNIKA Santo Thomas Medan", "S2": "USU (Informatics Engineering)"}
     focus     = ["Machine Learning", "Cybersecurity", "Blockchain", "Web & Mobile"]
 
     def mission(self):
@@ -110,7 +110,7 @@ class Firman:
 
 ## 🎯 Research Interests
 
-`Machine Learning` · `Network Security` · `DDoS Detection` · `Cross-Dataset Generalization` · `NLP Bahasa Indonesia` · `Blockchain` · `Pendidikan Informatika`
+`Machine Learning` · `Network Security` · `DDoS Detection` · `Cross-Dataset Generalization` · `NLP Bahasa Indonesia` · `Blockchain` · `Informatics Education`
 
 ---
 
