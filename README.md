@@ -3,12 +3,23 @@
 🎓 **Master's Student in Informatics Engineering** at Universitas Sumatera Utara (USU)  
 💻 **Software Developer & Educator** | Tech Stack Specialist in Web, Mobile, & Machine Learning
 
+I am passionate about creating innovative solution-driven software, ranging from web-based applications, mobile systems, to machine learning and blockchain research.
+
 ---
 
-### 🛠️ Tech Stack & Skills
-- **Languages:** Python, PHP, Dart, JavaScript/TypeScript
-- **Frameworks & Libraries:** Next.js, React, Flutter, Streamlit, TensorFlow, Scikit-learn
-- **Tools & Platforms:** Git, GitHub, Vercel, MySQL, Arduino / IoT
+### 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
 
 ---
 
