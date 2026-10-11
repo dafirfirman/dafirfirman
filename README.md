@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Firman Damai Zebua 👋
 
-<!--
-**dafirfirman/dafirfirman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master's Student in Informatics Engineering** at Universitas Sumatera Utara (USU)  
+💻 **Software Developer & Educator** | Tech Stack Specialist in Web, Mobile, & Machine Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, PHP, Dart, JavaScript/TypeScript
+- **Frameworks & Libraries:** Next.js, React, Flutter, Streamlit, TensorFlow, Scikit-learn
+- **Tools & Platforms:** Git, GitHub, Vercel, MySQL, Arduino / IoT
+
+---
+
+### 🚀 Featured Projects
+- 🔐 **[simple-blockchain-python](https://github.com/dafirfirman/simple-blockchain-python)** - Python-based blockchain implementation with SHA-256 and docx parser.
+- 📱 **[kasus-perceraian](https://github.com/dafirfirman/kasus-perceraian)** - Legal case management app built with Flutter.
+- 🏫 **[sisteminformasi](https://github.com/dafirfirman/sisteminformasi)** - Web-based school financial management system with PHP & MySQL.
+- 🌐 **[portofolio](https://github.com/dafirfirman/portofolio)** - Personal developer portfolio web built with Next.js deployed on Vercel.
+
+---
+
+📫 **Get in Touch:**
+- **GitHub:** [@dafirfirman](https://github.com/dafirfirman)
