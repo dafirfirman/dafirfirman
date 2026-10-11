@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Writing+Code+%26+mengajar+calon+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Machine+Learning+%7C+Cybersecurity+%7C+Blockchain+%F0%9F%94%90;Web+%26+Mobile+Developer+%F0%9F%9A%80;+On+the+journey+to+becoming+a+university+lecturer+%26+Researcher+%F0%9F%8E%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Writing+Code+%26+teach+prospective+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Machine+Learning+%7C+Cybersecurity+%7C+Blockchain+%F0%9F%94%90;Web+%26+Mobile+Developer+%F0%9F%9A%80;+On+the+journey+to+becoming+a+university+lecturer+%26+Researcher+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 </p>
 
