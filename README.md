@@ -10,11 +10,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Full-Stack+Developer+%F0%9F%92%BB;Cybersecurity+%26+ML+Researcher+%F0%9F%9B%A1%FE%8F;Informatics+Educator+%F0%9F%8E%93;Content+Creator+%40+Mr.CODING+%F0%9F%8E%A5" alt="Typing Effect" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUGG4dbv5BL4GYnm/giphy.gif" width="380" alt="Coding GIF Animation"/>
-</p>
-
 ---
 
 ### 💫 About Me
