@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./fireworks.svg" width="100%" alt="Header Banner" />
+<img src="https://raw.githubusercontent.com/dafirfirman/dafirfirman/main/fireworks.svg" width="100%" alt="Header Banner" />
 
 <!-- Typing SVG Tagline -->
 <p>
