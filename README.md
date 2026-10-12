@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/d494k2e.gif" width="380" alt="Coding GIF Animation"/>
+  <img src="https://media.giphy.com/media/qgQUGG4dbv5BL4GYnm/giphy.gif" width="380" alt="Coding GIF Animation"/>
 </p>
 
 ---
