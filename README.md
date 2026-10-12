@@ -82,13 +82,11 @@
 
 ---
 
-## 📊 GitHub Stats & Metrics
-
 <div align="center">
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=dafirfirman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=dafirfirman&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=dafirfirman&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p>
