@@ -72,8 +72,10 @@
 ### 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dafirfirman/dafirfirman/output/snake.yml" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/dafirfirman/dafirfirman/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
+
+---
 
 ---
 
