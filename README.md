@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/dafirfirman/dafirfirman/main/fireworks.svg" width="100%" alt="Firman Damai Zebua - Software Developer, Educator, ML Researcher" />
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=520&height=45&lines=Software+Developer;Vocational+High+School+(SMK)+Teacher;Master's+Student+%40+Universitas+Sumatera+Utara;Machine+Learning+%26+Cybersecurity+Researcher" alt="Typing animation: Software Developer, SMK Teacher, Master's Student, ML and Cybersecurity Researcher" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=520&height=45&lines=Software+Developer;Vocational+High+School+(SMK)+Teacher;+Master's+Student+%40+Universitas+Sumatera+Utara+;Machine+Learning+%26+Cybersecurity+Researcher" alt="Typing animation: Software Developer, SMK Teacher, Master's Student, ML and Cybersecurity Researcher" />
 </p>
 
 <p>
