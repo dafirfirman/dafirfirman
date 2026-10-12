@@ -1,135 +1,144 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0d1117,100:00e676&height=230&section=header&text=FIRMAN%20DAMAI%20ZEBUA&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20Educator%20%7C%20M.Informatics%20Student&descSize=14&descAlignY=60&descColor=c9d1d9" width="100%" alt="Profile Header" />
-</p>
+<!-- 👋 Halo! Selamat datang di Profil Saya -->
+<div align="center">
+  <!-- Animasi Teks Berjalan -->
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Halo,+Saya+Pengembang;Suka+Koding+%26+Teknologi;Selamat+Datang+di+Profil+Saya!&center=true&vCenter=true&width=600&height=60&fontSize=24&duration=3000&color=2a9d8f">
+  
+  <br><br>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Writing+Code+%26+teach+prospective+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Machine+Learning+%7C+Cybersecurity+%7C+Blockchain+%F0%9F%94%90;Web+%26+Mobile+Developer+%F0%9F%9A%80;+On+the+journey+to+becoming+a+university+lecturer+%26+Researcher+%F0%9F%8E%93" alt="Typing SVG" />
-  </a>
-</p>
+  <!-- Foto Profil & Badge Sosial -->
+  <a href="https://github.com/[USERNAME_KAMU]">
+    <img src="https://avatars.githubusercontent.com/u/[ID_KAMU]?v=4" width="180" height="180" style="border-radius:50%; border: 4px solid #2a9d8f; box-shadow: 0 0 20px #2a9d8f;">
+  </a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/S.Kom.-Universitas%20Katolik%20Santo%20Thomas-0d1117?style=for-the-badge&logo=academia&logoColor=00e676" />
-  <img src="https://img.shields.io/badge/S2%20Informatika-Universitas%20Sumatera%20Utara-0d1117?style=for-the-badge&logo=googlescholar&logoColor=00e676" />
-  <img src="https://img.shields.io/badge/Medan%2C%20Indonesia-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00e676" />
-</p>
+  <h2 align="center">✨ Saya [NAMA_KAMU] ✨</h2>
+  
+  <p align="center">
+    <a href="https://github.com/[USERNAME_KAMU]">
+      <img src="https://komarev.com/ghpvc/?username=[USERNAME_KAMU]&color=2a9d8f&style=for-the-badge&logo=github&label=Dilihat+Sebanyak">
+    </a>
+    <a href="https://github.com/[USERNAME_KAMU]">
+      <img src="https://img.shields.io/github/followers/[USERNAME_KAMU]?color=2a9d8f&style=for-the-badge&logo=github">
+    </a>
+    <a href="https://github.com/[USERNAME_KAMU]">
+      <img src="https://img.shields.io/github/stars/[USERNAME_KAMU]?color=f4a261&style=for-the-badge&logo=github">
+    </a>
+  </p>
 
----
+  <!-- Lencana Sosial -->
+  <p align="center">
+    <a href="https://github.com/[USERNAME_KAMU]"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="mailto:[EMAIL_KAMU]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  </p>
 
-## 👋 Tentang Saya
-
-I am **Firman Damai Zebua**, a **software developer** and **specialized vocational teacher** at **SMK Swasta Yapim Biru-biru** (Deli Serdang), where I teach **Coding & Artificial Intelligence** and **Basic Programming**. I am currently completing my **Master’s degree in Informatics Engineering at Universitas Sumatera Utara (USU)**, with a research focus on **machine learning-based DDoS attack detection**.
-
-```python
-class Firman:
-    role      = ["Software Developer", "Educator", "Graduate Student"]
-    location  = "Medan / Deli Serdang, Sumatera Utara 🇮🇩"
-    education = {"S1": "UNIKA Santo Thomas Medan", "S2": "USU (Informatics Engineering)"}
-    focus     = ["Machine Learning", "Cybersecurity", "Blockchain", "Web & Mobile"]
-
-    def mission(self):
-        return "Building impactful software solutions and sharing knowledge."
-```
-
----
-
-## 🔭 Being worked on
-
-- 🧪 **Master's Thesis** — Cross-dataset DDoS detection using machine learning
-- 📝 **Scientific Publication** — Preparing a paper for a Scopus-indexed journal
-- 🔗 **Blockchain Technology** — Exploring blockchain concepts and implementation
-- 🤖 **Indonesian NLP** — SMS spam classification using IndoBERT
-- 🌐 **Laravel** — Developing an academic information system (SIAK)
-- 🤝 **Teaching & Mentoring** — Networking extracurriculars and robotics projects for vocational high school (SMK) students
+  <!-- Animasi Garis -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa53e-2c86-4f95-8810-ec48d4afd340.gif" width="100%">
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,dart,php,laravel,mysql,js,ts,react,nextjs,git,github,vercel,linux&theme=dark" />
-</p>
-
-| Field | Technology |
-|:--|:--|
-| 🧠 **Machine Learning** | Python, scikit-learn, Pandas, NumPy, IndoBERT / Transformers |
-| 🌐 **Web** | PHP, Laravel, MySQL, JavaScript, TypeScript, React, Next.js |
-| 📱 **Mobile** | Flutter, Dart |
-| 🔐 **Blockchain & Security** | Python (SHA-256, proof-of-work), network attack analysis (DDoS) |
-| 🧰 **Tools** | Git, GitHub, Vercel, Linux |
+## 🧑‍💻 Tentang Saya
+<div>
+  <img align="right" alt="Koding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3869482/media/43d91821b4a5d1b8f90a69491469152c.gif">
+  
+  - 🌱 Sedang mempelajari **[Teknologi Favoritmu]**
+  - 💬 Tanya saya tentang **[Topik Keahlianmu]**
+  - 📫 Hubungi saya di **[EMAIL_KAMU]**
+  - ⚡ Fakta Unik: **[Tulis Fakta Menarikmu]**
+  - 🎯 Tujuan: **[Tulis Tujuanmu]**
+</div>
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/dafirfirman/simple-blockchain-python">simple-blockchain-python</a></h3>
-      <p>Python-based blockchain implementation with SHA-256 hashing and a docx parser..</p>
-      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00e676" />
-      <img src="https://img.shields.io/badge/Blockchain-0d1117?style=flat-square&logo=ethereum&logoColor=00e676" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>📱 <a href="https://github.com/dafirfirman/kasus-perceraian">kasus-perceraian</a></h3>
-      <p>Legal case management application built with Flutter.</p>
-      <img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=00e676" />
-      <img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=00e676" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏫 <a href="https://github.com/dafirfirman/sisteminformasi">sisteminformasi</a></h3>
-      <p>Web-based school financial management system using PHP & MySQL.</p>
-      <img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=00e676" />
-      <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00e676" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/dafirfirman/portofolio">portofolio</a></h3>
-      <p>Next.js-based portfolio website developer, di-deploy di Vercel.</p>
-      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=00e676" />
-      <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=00e676" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dafirfirman&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e676&icon_color=00e676&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafirfirman&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e676&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dafirfirman&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00e676&fire=00e676&currStreakLabel=00e676" />
-</p>
+## 🛠️ Teknologi yang Saya Kuasai
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="#tech">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <a href="#tech">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <a href="#tech">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
+        </a>
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <a href="#tech">
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
+        </a>
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <a href="#tech">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="48" height="48" />
+        </a>
+        <br>Docker
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🎯 Research Interests
+## 📊 Statistik GitHub & Grafik
+<div align="center">
+  <!-- Kartu Statistik Utama -->
+  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_KAMU]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2a9d8f&icon_color=f4a261" alt="Statistik GitHub" width="49%">
+  
+  <!-- Peringkat GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_KAMU]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2a9d8f" alt="Bahasa Terbanyak" width="41%">
 
-`Machine Learning` · `Network Security` · `DDoS Detection` · `Cross-Dataset Generalization` · `NLP Bahasa Indonesia` · `Blockchain` · `Informatics Education`
+  <br><br>
+
+  <!-- Grafik Kontribusi Dinamis -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[USERNAME_KAMU]&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2a9d8f&line=f4a261&point=ffffff" width="100%">
+
+  <br><br>
+
+  <!-- Kontribusi Burung Hantu -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME_KAMU]&theme=tokyonight&hide_border=true&background=0d1117&ring=2a9d8f&fire=f4a261&currStreakLabel=2a9d8f" width="49%">
+</div>
 
 ---
 
-## 📫 Let's Connect
+## 🎵 Aktivitas & Dukungan
+<div align="center">
+  <!-- Musik Sedang Diputar -->
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ID_SPOTIFY_KAMU&cover_image=true&theme=default&show_offline=false&background_color=0d1117" width="400">
+  
+  <br><br>
 
+  <!-- Animasi Kontribusi Tambahan -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-51e8e47d-21b3-4c4a-8c56-90e4d597048d.gif" width="100%">
+  
+  <br>
+
+  <h4>💖 Terima kasih sudah berkunjung!</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Dukung-Saya-ff6b6b?style=for-the-badge&logo=github-sponsors">
+  </p>
+</div>
+
+---
+
+<!-- Elemen Tersembunyi & Animasi Tambahan -->
 <p align="center">
-  <a href="https://github.com/dafirfirman">
-    <img src="https://img.shields.io/badge/GitHub-@dafirfirman-0d1117?style=for-the-badge&logo=github&logoColor=00e676" />
-  </a>
-  <!-- Tambahkan kontak lain jika mau:
-  <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Firman-0d1117?style=for-the-badge&logo=linkedin&logoColor=00e676" /></a>
-  <a href="mailto:EMAIL_ANDA"><img src="https://img.shields.io/badge/Email-Hubungi%20Saya-0d1117?style=for-the-badge&logo=gmail&logoColor=00e676" /></a>
-  -->
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
+  <img src="https://forthebadge.com/images/badges/open-source.svg" />
 </p>
 
 <p align="center">
-  <i>"Learn endlessly, teach with all your heart."</i> 💚
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e676,50:0f2a1d,100:0d1117&height=120&section=footer" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
